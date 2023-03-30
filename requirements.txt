@@ -4,7 +4,7 @@
 #argon2-cffi-bindings @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi-bindings_1666850842190/work
 #asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1670263926556/work
 async-generator==1.10
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1671632566681/work
+#attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1671632566681/work
 Babel @ file:///home/conda/feedstock_root/build_artifacts/babel_1677767029043/work
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
